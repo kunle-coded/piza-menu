@@ -20,7 +20,7 @@ The **Pizza Menu** is a web-based application designed to facilitate pizza order
 
 ### Introduction
 
-The ** Pizza Menu ** project serves as an educational tool for those aiming to enhance their proficiency in React development. By creating a pizza ordering application, this project offers a practical way to apply fundamental React concepts.
+The **Pizza Menu** project serves as an educational tool for those aiming to enhance their proficiency in React development. By creating a pizza ordering application, this project offers a practical way to apply fundamental React concepts.
 
 ### Key Concepts
 
@@ -121,6 +121,6 @@ git push origin feature/new-feature
 
 ### License
 
-This project is licensed under the **[MIT License](https://github.com/kunle-coded/pizza-menu/blob/main/LICENSE)**. Feel free to use and distribute it according to the terms and conditions of the license.
+This project is licensed under the **[MIT License](https://github.com/kunle-coded/piza-menu/blob/main/LICENSE)**. Feel free to use and distribute it according to the terms and conditions of the license.
 
 **Pizza Menu -** Delight in the world of React components, props, and JSX while crafting your favorite virtual pizzas! 🍕🍕🍕
