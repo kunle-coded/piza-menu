@@ -52,7 +52,7 @@ To set up the **Pizza Menu** application on your local machine, follow these ste
 
 ```bash
 
-git clone https://github.com/yourusername/pizza-menu.git
+git clone https://github.com/kunle-coded/pizza-menu.git
 
 ```
 
